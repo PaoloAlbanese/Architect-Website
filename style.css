@@ -287,6 +287,12 @@ header{
     margin-bottom: 6rem;
 }
 
+.underline{
+    width:12rem;
+    height:.3rem;
+    background-color: #c29525;
+}
+
 /*.socI {*/
 /*  font-size:2.2rem;*/
 /*  margin:3rem;*/
