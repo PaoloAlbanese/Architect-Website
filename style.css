@@ -145,7 +145,7 @@ header {
     font-size: 4rem;
     color: #fff;
     width: 70%;
-    letter-spacing.1rem;
+    letter-spacing: .1rem;
     margin-bottom: 3rem;
     text-shadow: 0 .3rem .5rem(0, 0, 0, .4);
     opacity: 0;
