@@ -791,7 +791,7 @@ textarea {
 
   .contact-wrapper {
     width: 80%;
-    height: 90%;
+    max-height: 97%;
   }
   
   .input-group{
