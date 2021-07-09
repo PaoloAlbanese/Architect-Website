@@ -794,6 +794,10 @@ textarea {
     max-height: 97%;
   }
   
+  .field {
+    margin:2rem 0;
+  }
+  
   .input-group{
     margin-bottom:1rem;
   }
