@@ -798,6 +798,10 @@ textarea {
     margin:2rem 0;
   }
   
+  .submit-btn{
+    margin-top:0;
+  }
+  
   .input-group{
     margin-bottom:1rem;
   }
