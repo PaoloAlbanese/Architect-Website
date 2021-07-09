@@ -649,7 +649,7 @@ header {
     font-size: 6rem;
     font-weight: 300;
     color: #272727;
-    margin-bottom: 5rem;
+    margin-bottom: 3rem;
     text-align: center;
 }
 
@@ -791,12 +791,15 @@ textarea {
 
   .contact-wrapper {
     width: 80%;
-    height: 65rem;
+    height: 90%;
   }
 
   .footer-content {
     width: 80%;
   }
+  
+ 
+  
 }
 
 @media (max-width: 1400px) {
