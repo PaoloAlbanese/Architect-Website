@@ -793,6 +793,10 @@ textarea {
     width: 80%;
     height: 90%;
   }
+  
+  .input-group{
+    margin-bottom:1rem;
+  }
 
   .footer-content {
     width: 80%;
